@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/zed/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/zed?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/zed/issues"><img src="https://img.shields.io/github/issues/catppuccin/zed?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/zed/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/zed?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/JeffreyThor/zed-catppuccin-transparent/stargazers"><img src="https://img.shields.io/github/stars/JeffreyThor/zed-catppuccin-transparent?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/JeffreyThor/zed-catppuccin-transparent/issues"><img src="https://img.shields.io/github/issues/JeffreyThor/zed-catppuccin-transparent?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/JeffreyThor/zed-catppuccin-transparent/contributors"><img src="https://img.shields.io/github/contributors/JeffreyThor/zed-catppuccin-transparent?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 ### Accents
 
-1. Download the JSON file of your preferred accent from the [latest GitHub release](https://github.com/catppuccin/zed/releases/latest).
+1. Download the JSON file of your preferred accent from the [latest GitHub release](https://github.com/JeffreyThor/zed-catppuccin-transparent/releases/latest).
 2. Create the `themes/` subfolder inside the directory of your [Zed configuration file](https://zed.dev/docs/configuring-zed#settings-files) (typically `~/.config/zed/`).
 3. Move the downloaded file from Step 1 to the `themes/` subfolder created in Step 2.
 4. Restart Zed.
