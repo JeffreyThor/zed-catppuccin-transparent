@@ -1,10 +1,10 @@
 {
     "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-    "name": "Catppuccin",
+    "name": "Catppuccin Transparent",
     "author": "Catppuccin <releases@catppuccin.dev>",
     "themes": [
         {
-            "name": "Catppuccin Latte",
+            "name": "Catppuccin Latte (Transparent)",
             "appearance": "light",
             "style": {
                 "accents": [
@@ -16,7 +16,7 @@
                     "#6a7cdfff",
                     "#7c3ed4ff"
                 ],
-                "background.appearance": "opaque",
+                "background.appearance": "transparent",
                 "border": "#ccd0da",
                 "border.variant": "#9658eb",
                 "border.focused": "#7287fd",
@@ -406,7 +406,7 @@
                     "keyword.coroutine": {
                         "color": "#8839ef",
                         "font_style": null,
-                        "font_weight": null,
+                        "font_weight": null
                     },
                     "keyword.function": {
                         "color": "#8839ef",
@@ -697,7 +697,7 @@
             }
         },
         {
-            "name": "Catppuccin Frappé",
+            "name": "Catppuccin Frappé (Transparent)",
             "appearance": "dark",
             "style": {
                 "accents": [
@@ -709,7 +709,7 @@
                     "#bdc0f2ff",
                     "#caa8e9ff"
                 ],
-                "background.appearance": "opaque",
+                "background.appearance": "transparent",
                 "border": "#414559",
                 "border.variant": "#af8cca",
                 "border.focused": "#babbf1",
@@ -1099,7 +1099,7 @@
                     "keyword.coroutine": {
                         "color": "#ca9ee6",
                         "font_style": null,
-                        "font_weight": null,
+                        "font_weight": null
                     },
                     "keyword.function": {
                         "color": "#ca9ee6",
@@ -1390,7 +1390,7 @@
             }
         },
         {
-            "name": "Catppuccin Macchiato",
+            "name": "Catppuccin Macchiato (Transparent)",
             "appearance": "dark",
             "style": {
                 "accents": [
@@ -1402,7 +1402,7 @@
                     "#bac1f7ff",
                     "#c6aaf6ff"
                 ],
-                "background.appearance": "opaque",
+                "background.appearance": "transparent",
                 "border": "#363a4f",
                 "border.variant": "#a98cd5",
                 "border.focused": "#b7bdf8",
@@ -1792,7 +1792,7 @@
                     "keyword.coroutine": {
                         "color": "#c6a0f6",
                         "font_style": null,
-                        "font_weight": null,
+                        "font_weight": null
                     },
                     "keyword.function": {
                         "color": "#c6a0f6",
@@ -2083,7 +2083,7 @@
             }
         },
         {
-            "name": "Catppuccin Mocha",
+            "name": "Catppuccin Mocha (Transparent)",
             "appearance": "dark",
             "style": {
                 "accents": [
@@ -2095,7 +2095,7 @@
                     "#b9c3fcff",
                     "#cbb0f7ff"
                 ],
-                "background.appearance": "opaque",
+                "background.appearance": "transparent",
                 "border": "#313244",
                 "border.variant": "#ac8fd4",
                 "border.focused": "#b4befe",
@@ -2485,7 +2485,7 @@
                     "keyword.coroutine": {
                         "color": "#cba6f7",
                         "font_style": null,
-                        "font_weight": null,
+                        "font_weight": null
                     },
                     "keyword.function": {
                         "color": "#cba6f7",

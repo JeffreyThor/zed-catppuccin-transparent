@@ -1,7 +1,10 @@
-id = "catppuccin"
-name = "Catppuccin"
+id = "catppuccin-transparent"
+name = "Catppuccin Transparent"
 schema_version = 1
-version = "0.2.18"
-authors = ["Catppuccin <releases@catppuccin.dev>"]
-description = "🦀 Soothing pastel theme for Zed"
-repository = "https://github.com/catppuccin/zed"
+version = "0.2.18.1"
+authors = [
+    "Catppuccin <releases@catppuccin.dev>",
+    "Jeffrey Thor <thorjeffrey@gmail.com>",
+]
+description = "🦀 Soothing pastel theme for Zed with transparency"
+repository = "https://github.com/JeffreyThor/zed-catppuccin-transparent"
